@@ -3,4 +3,5 @@ new repository
 
 Hi, 
 
-This is very nicee........
+Hello, Edwin here,
+I am a Computer Science student.
